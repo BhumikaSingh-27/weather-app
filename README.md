@@ -5,4 +5,5 @@ This app provides the weather of the city when searched.
 - CSS
 -Javascript
 - web hosting
-Created with CodeSandbox
+ 
+~Created with CodeSandbox
