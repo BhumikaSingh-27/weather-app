@@ -3,7 +3,7 @@ This app provides the weather of the city when searched.
 ## Teach stack
 - HTML
 - CSS
--Javascript
+- Javascript
 - web hosting
  
 ~Created with CodeSandbox
